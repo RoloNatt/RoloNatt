@@ -26,4 +26,5 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [TOURNEY MOD discord bot](https://rolocodes.hashnode.dev/tourney-mod-discord-bot)
 <!-- HASHNODE:END -->
