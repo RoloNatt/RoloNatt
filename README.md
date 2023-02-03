@@ -26,5 +26,6 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Creating a Simple Bot using Cogs](https://rolocodes.hashnode.dev/creating-a-simple-bot-using-cogs)
 - [TOURNEY MOD discord bot](https://rolocodes.hashnode.dev/tourney-mod-discord-bot)
 <!-- HASHNODE:END -->
