@@ -26,6 +26,7 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Navigating the Data Landscape: Roadmap to Learning Data Science](https://rolocodes.hashnode.dev/navigating-the-data-landscape-roadmap-to-learning-data-science)
 - [Creating a Simple Bot using Cogs](https://rolocodes.hashnode.dev/creating-a-simple-bot-using-cogs)
 - [TOURNEY MOD discord bot](https://rolocodes.hashnode.dev/tourney-mod-discord-bot)
 <!-- HASHNODE:END -->
