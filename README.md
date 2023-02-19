@@ -3,7 +3,7 @@
 <br/>
 
 - 🔭 I’m currently working on **Story Scape**
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science**
 - 📝 I regularly write blogs on [https://hashnode.com/@rolocodes](https://hashnode.com/@rolocodes)
 - 📫 How to reach me **rolo.natt@gmail.com**
 - ⚡ Fun fact **I am a weirdo**
