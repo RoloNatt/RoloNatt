@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **LearnPlan**
 - 🌱 I’m currently learning **Data Science**
 - 📝 I regularly write blogs on [https://hashnode.com/@rolocodes](https://hashnode.com/@rolocodes)
-- 📫 How to reach me **rolo.natt@gmail.com**
+- 📫 How to reach me **somver16@gmail.com**
 - ⚡ Fun fact **I am a weirdo**
 
 <br/>
