@@ -2,7 +2,7 @@
 <h3 align="center">A girl believing in Magic and chasing it</h3>
 <br/>
 
-- 🔭 I’m currently working on **Story Scape**
+- 🔭 I’m currently working on **LearnPlan**
 - 🌱 I’m currently learning **Data Science**
 - 📝 I regularly write blogs on [https://hashnode.com/@rolocodes](https://hashnode.com/@rolocodes)
 - 📫 How to reach me **rolo.natt@gmail.com**
