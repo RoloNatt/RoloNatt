@@ -26,7 +26,7 @@
 - I get a lot of ideas of applications. I build them.
 - I take risks (remember? no regrets?)
 - I wanna help the poor and the dogs.
-- I wanna tell my experiences to the world. It wasn't easy.
+- I wanna tell my experiences to the world.
 - I wanna share everything that I have learnt in my life, to make things easier for others.
 - I wanna find magic (I think AI is the way and that's why I have caught an interest in it. Nothing is impossible)
 
