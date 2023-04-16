@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rolo</h1>
-<h3 align="center">A girl believing in Magic</h3>
+<h3 align="center">A girl who wants to create magic✨</h3>
 <br/>
 
 - 🔭 I’m currently working on **LearnPlan** (https://learnplan-383315.uc.r.appspot.com/). I would love any feedback!!
