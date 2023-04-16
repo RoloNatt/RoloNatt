@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=RoloNatt&icon=1&color=1)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Rolo</h1>
 <h3 align="center">A girl believing in Magic</h3>
 <br/>
