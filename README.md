@@ -62,11 +62,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [The Secret Behind The Existence of loc and iloc](https://rolocodes.hashnode.dev/the-secret-behind-the-existence-of-loc-and-iloc)
 - [5 Must-Have Dev News Apps of 2023](https://rolocodes.hashnode.dev/5-must-have-dev-news-apps-of-2023)
 - [Build your ChatGPT Discord Bot in 10 mins](https://rolocodes.hashnode.dev/build-your-chatgpt-discord-bot-in-10-mins)
 - [Navigating the Data Landscape: Roadmap to Learning Data Science](https://rolocodes.hashnode.dev/navigating-the-data-landscape-roadmap-to-learning-data-science)
 - [Creating a Simple Bot using Cogs](https://rolocodes.hashnode.dev/creating-a-simple-bot-using-cogs)
-- [TOURNEY MOD discord bot](https://rolocodes.hashnode.dev/tourney-mod-discord-bot)
 <!-- HASHNODE:END -->
 
 ## Latest Tweets 🧵
