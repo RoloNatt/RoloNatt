@@ -68,6 +68,3 @@
 - [Navigating the Data Landscape: Roadmap to Learning Data Science](https://rolocodes.hashnode.dev/navigating-the-data-landscape-roadmap-to-learning-data-science)
 - [Creating a Simple Bot using Cogs](https://rolocodes.hashnode.dev/creating-a-simple-bot-using-cogs)
 <!-- HASHNODE:END -->
-
-## Latest Tweets 🧵
-<p align='center'><a href="https://twitter.com/rolocodes"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=rolocodes&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
