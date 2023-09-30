@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **LearnPlan** (https://learnplan-383315.uc.r.appspot.com/). I would love any feedback!!
 - 🌱 I’m currently learning **Data Science**
-- 📝 I regularly write blogs on [https://hashnode.com/@rolocodes](https://hashnode.com/@rolocodes)
+- 📝 I regularly write blogs on [https://hashnode.com/@rolocodes](https://hashnode.com/@rolonatt)
 - 📫 How to reach me **somver16@gmail.com**
 - ⚡ Fun fact **I am a weirdo**
 
