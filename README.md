@@ -62,9 +62,9 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
-- [The Secret Behind The Existence of loc and iloc](https://rolocodes.hashnode.dev/the-secret-behind-the-existence-of-loc-and-iloc)
-- [5 Must-Have Dev News Apps of 2023](https://rolocodes.hashnode.dev/5-must-have-dev-news-apps-of-2023)
-- [Build your ChatGPT Discord Bot in 10 mins](https://rolocodes.hashnode.dev/build-your-chatgpt-discord-bot-in-10-mins)
-- [Navigating the Data Landscape: Roadmap to Learning Data Science](https://rolocodes.hashnode.dev/navigating-the-data-landscape-roadmap-to-learning-data-science)
-- [Creating a Simple Bot using Cogs](https://rolocodes.hashnode.dev/creating-a-simple-bot-using-cogs)
+- [The Secret Behind The Existence of loc and iloc](https://rolonatt.hashnode.dev/the-secret-behind-the-existence-of-loc-and-iloc)
+- [5 Must-Have Dev News Apps of 2023](https://rolonatt.hashnode.dev/5-must-have-dev-news-apps-of-2023)
+- [Build your ChatGPT Discord Bot in 10 mins](https://rolonatt.hashnode.dev/build-your-chatgpt-discord-bot-in-10-mins)
+- [Navigating the Data Landscape: Roadmap to Learning Data Science](https://rolonatt.hashnode.dev/navigating-the-data-landscape-roadmap-to-learning-data-science)
+- [Creating a Simple Bot using Cogs](https://rolonatt.hashnode.dev/creating-a-simple-bot-using-cogs)
 <!-- HASHNODE:END -->
