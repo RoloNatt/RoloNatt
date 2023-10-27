@@ -40,8 +40,8 @@
 <a href="https://twitter.com/rolocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rolocodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soumya16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya16" height="30" width="40" /></a>
 <a href="https://kaggle.com/perlaoinen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rolonatt" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rolocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rolocodes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@rolocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rolocodes" height="30" width="40" /></a>
+<a href="https://hashnode.com/@rolonatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rolocodes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rolonatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rolocodes" height="30" width="40" /></a>
 </p>
 
 <br/>
