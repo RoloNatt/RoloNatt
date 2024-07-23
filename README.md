@@ -2,9 +2,8 @@
 <h3 align="center">On a Journey to Discover Magic and Create Spells✨</h3>
 <br/>
 
-- 🔭 I’m currently working on **LearnPlan** (https://learnplan-383315.uc.r.appspot.com/). I would love any feedback!!
-- 🌱 I’m currently learning **Data Science**
-- 📝 I regularly write blogs on [https://hashnode.com/@rolonatt](https://hashnode.com/@rolonatt)
+- 🔭 I’m currently building Discord Bots
+- 📝 I write blogs on [https://hashnode.com/@rolonatt](https://hashnode.com/@rolonatt)
 - 📫 How to reach me **somver16@gmail.com**
 - ⚡ Fun fact **I am a weirdo**
 
