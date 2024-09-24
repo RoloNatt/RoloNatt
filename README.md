@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rolo</h1>
 <h3 align="center">On a Journey to Discover Magic and Create Spells✨</h3>
+<h5 align="center">[My Website](https://www.rolonatt.com)</h5>
 <br/>
 
 - 🔭 I’m currently building Discord Bots
