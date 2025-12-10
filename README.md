@@ -52,16 +52,18 @@
 
 <br/>
 
-## My GitHub Stats
+## My Github Stats
 
-<!-- Main Stats -->
-![GitHub Stats](https://gitreadmestats.vercel.app/api?username=RoloNatt&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+
+<!-- Stats -->
+<img src="https://gitreadmestats.vercel.app/api?username=RoloNatt&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="170" />
 
 <!-- Top Languages -->
-![Top Langs](https://gitreadmestats.vercel.app/api/top-langs/?username=RoloNatt&layout=compact&hide_border=true&count_private=true)
+<img src="https://gitreadmestats.vercel.app/api/top-langs/?username=RoloNatt&layout=compact&hide_border=true&count_private=true&theme=transparent" height="170" />
 
-<!-- Streak Stats -->
-![Streak Stats](https://streak-stats.demolab.com?user=RoloNatt&hide_border=true)
+</div>
+
 
 
 <br/>
