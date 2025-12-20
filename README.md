@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building Discord Bots
 - 📝 I write blogs on [https://hashnode.com/@rolonatt](https://hashnode.com/@rolonatt)
-- 📫 How to reach me **somver16@gmail.com**
+- 📫 How to reach me **rolo.natt@gmail.com**
 - ⚡ Fun fact **I am a weirdo**
 
 <br/>
