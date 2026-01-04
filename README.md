@@ -23,7 +23,7 @@ Full-featured dictionary assistant with definitions, synonyms, and multilingual 
 #### WorldTimeBot - Discord Bot (200+ servers)
 A utility bot that helps users convert time zones, check local times across countries, and coordinate events across global communities. Designed for accuracy, fast responses, and minimal friction for cross-region coordination.
 
-#### Sens Bot — Discord Bot
+#### Sens Bot - Discord Bot
 A precision settings companion for competitive gaming players. Lets users store, compare, and retrieve their mouse sensitivity and DPI configurations across games — useful for consistency, experimentation, and skill tracking over time.
 
 *You can use the above apps yourself - Check rolonatt.com for more details and links to the apps*
