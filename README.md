@@ -13,22 +13,27 @@
 ## My Work (Live)
 #### Folder Notes Panel - Windows App (Microsoft Store)
 A Windows utility tool that lets users add contextual notes directly inside Windows folders - reminders, instructions, and project context that appear only when opening that folder.
+<br/>
 [Folder Notes Panel link]()
 
 #### Tourney Mod - Discord Bot (300+ servers)
 A tournament-management bot built for gaming communities. Helps organizers create brackets, track match progress, record results, and manage participant updates - reducing manual coordination and making community tournaments smoother to run.
+<br/>
 [Tourney Mod invite link](https://discord.com/oauth2/authorize?client_id=1032932441167495189&scope=bot)
 
 #### WorldTimeBot - Discord Bot (200+ servers)
 A utility bot that helps users convert time zones, check local times across countries, and coordinate events across global communities. Designed for accuracy, fast responses, and minimal friction for cross-region coordination.
+<br/>
 [WorldTimeBot invite link](https://discord.com/oauth2/authorize?client_id=804619486639423518&permissions=2147567616&scope=bot%20applications.commands)
 
 #### Dictionary Bot - Discord Bot (200+ servers)
 Full-featured dictionary assistant with definitions, synonyms, and multilingual translation.
+<br/>
 [Dictionary Bot invite link](https://discord.com/oauth2/authorize?client_id=824268426679812118&permissions=2147568640&scope=bot%20applications.commands)
 
 #### Sens Bot - Discord Bot
 A precision settings companion for competitive gaming players. Lets users store, compare, and retrieve their mouse sensitivity and DPI configurations across games — useful for consistency, experimentation, and skill tracking over time.
+<br/>
 [Sens Bot invite link](https://discord.com/oauth2/authorize?client_id=1012627570463887400&permissions=2147568704&scope=bot%20applications.commands)
 
 *Check rolonatt.com for more details and links to the apps*
