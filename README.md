@@ -32,7 +32,7 @@ Full-featured dictionary assistant with definitions, synonyms, and multilingual 
 [Dictionary Bot invite link](https://discord.com/oauth2/authorize?client_id=824268426679812118&permissions=2147568640&scope=bot%20applications.commands)
 
 #### Sens Bot - Discord Bot
-A precision settings companion for competitive gaming players. Lets users store, compare, and retrieve their mouse sensitivity and DPI configurations across games — useful for consistency, experimentation, and skill tracking over time.
+A precision settings companion for competitive gaming players. Lets users store, compare, and retrieve their mouse sensitivity and DPI configurations across games - useful for consistency, experimentation, and skill tracking over time.
 <br/>
 [Sens Bot invite link](https://discord.com/oauth2/authorize?client_id=1012627570463887400&permissions=2147568704&scope=bot%20applications.commands)
 
