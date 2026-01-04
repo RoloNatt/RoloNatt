@@ -3,7 +3,7 @@
 <h5 align="center">https://www.rolonatt.com</h5>
 <br/>
 
-- 🔭 I’m currently building Discord Bots
+- 🔭 I’m currently building Desktop and Android Apps
 - 📝 I write blogs on [https://hashnode.com/@rolonatt](https://hashnode.com/@rolonatt)
 - 📫 How to reach me **rolo.natt@gmail.com**
 - ⚡ Fun fact **I am a weirdo**
@@ -13,20 +13,25 @@
 ## My Work (Live)
 #### Folder Notes Panel - Windows App (Microsoft Store)
 A Windows utility tool that lets users add contextual notes directly inside Windows folders - reminders, instructions, and project context that appear only when opening that folder.
+[Folder Notes Panel link]()
 
 #### Tourney Mod - Discord Bot (300+ servers)
 A tournament-management bot built for gaming communities. Helps organizers create brackets, track match progress, record results, and manage participant updates - reducing manual coordination and making community tournaments smoother to run.
-
-#### Dictionary Bot - Discord Bot (200+ servers)
-Full-featured dictionary assistant with definitions, synonyms, and multilingual translation.
+[Tourney Mod invite link](https://discord.com/oauth2/authorize?client_id=1032932441167495189&scope=bot)
 
 #### WorldTimeBot - Discord Bot (200+ servers)
 A utility bot that helps users convert time zones, check local times across countries, and coordinate events across global communities. Designed for accuracy, fast responses, and minimal friction for cross-region coordination.
+[WorldTimeBot invite link](https://discord.com/oauth2/authorize?client_id=804619486639423518&permissions=2147567616&scope=bot%20applications.commands)
+
+#### Dictionary Bot - Discord Bot (200+ servers)
+Full-featured dictionary assistant with definitions, synonyms, and multilingual translation.
+[Dictionary Bot invite link](https://discord.com/oauth2/authorize?client_id=824268426679812118&permissions=2147568640&scope=bot%20applications.commands)
 
 #### Sens Bot - Discord Bot
 A precision settings companion for competitive gaming players. Lets users store, compare, and retrieve their mouse sensitivity and DPI configurations across games — useful for consistency, experimentation, and skill tracking over time.
+[Sens Bot invite link](https://discord.com/oauth2/authorize?client_id=1012627570463887400&permissions=2147568704&scope=bot%20applications.commands)
 
-*You can use the above apps yourself - Check rolonatt.com for more details and links to the apps*
+*Check rolonatt.com for more details and links to the apps*
 
 <br/>
 
