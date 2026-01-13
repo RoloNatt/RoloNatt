@@ -97,16 +97,20 @@ A precision settings companion for competitive gaming players. Lets users store,
 ## My Github Stats
 
 <div align="center">
-
-<!-- Stats -->
-<img src="https://gitreadmestats.vercel.app/api?username=RoloNatt&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="170" />
-
-<!-- Top Languages -->
-<img src="https://gitreadmestats.vercel.app/api/top-langs/?username=RoloNatt&layout=compact&hide_border=true&count_private=true&theme=transparent" height="170" />
-
+  <a href="https://github.com/Sankalp-Sinha">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoloNatt&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoloNatt&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoloNatt&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RoloNatt&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoloNatt&theme=2077" height="180em" />
+  </a>
 </div>
 
+![](https://github-readme-stats.vercel.app/api?username=RoloNatt&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RoloNatt&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoloNatt&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=RoloNatt)
 
 <br/>
 
