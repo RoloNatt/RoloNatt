@@ -16,7 +16,18 @@
 
 <br/>
 
-## My Work (Live)
+<div align="center">
+<svg width="600" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    text { font-family: 'Pacifico', cursive; font-size: 34px; fill: #A77BF7; }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    My Work (Live)
+  </text>
+</svg>
+</div>
+
 #### Folder Notes Panel - Windows App (Microsoft Store)
 A Windows utility tool that lets users add contextual notes directly inside Windows folders - reminders, instructions, and project context that appear only when opening that folder.
 <br/>
@@ -47,7 +58,18 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 
-## My Work (In Progress)
+<div align="center">
+<svg width="600" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    text { font-family: 'Pacifico', cursive; font-size: 34px; fill: #A77BF7; }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    My Work (In Progress)
+  </text>
+</svg>
+</div>
+
 #### Desktop App - scribble notes
 #### Web App - Product Management
 #### Android App for self-improvement
@@ -58,7 +80,18 @@ A precision settings companion for competitive gaming players. Lets users store,
 
 <br/>
 
-## What can I do?
+<div align="center">
+<svg width="600" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    text { font-family: 'Pacifico', cursive; font-size: 34px; fill: #A77BF7; }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    What can I do?
+  </text>
+</svg>
+</div>
+
 - I can code (learnt C for 10 years, Java for 6 years, currently using **Python** and absolutely love it)
 - I can draw (both traditional & digital)
 - I can edit videos
@@ -68,7 +101,18 @@ A precision settings companion for competitive gaming players. Lets users store,
 
 <br/>
 
-## What is my purpose in Life?
+<div align="center">
+<svg width="800" height="70" viewBox="0 0 800 70" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    text { font-family: 'Pacifico', cursive; font-size: 34px; fill: #A77BF7; }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    What is my purpose in Life?
+  </text>
+</svg>
+</div>
+
 - Have no Regrets!
 - I wanna try EVERYTHING that I find fun and interesting!
 - I get a lot of ideas of applications. I build them.
@@ -83,7 +127,18 @@ A precision settings companion for competitive gaming players. Lets users store,
 
 
 
-## Connect with me:
+<div align="center">
+<svg width="600" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    text { font-family: 'Pacifico', cursive; font-size: 34px; fill: #A77BF7; }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    Connect with me:
+  </text>
+</svg>
+</div>
+
 <p align="left">
 <a href="https://twitter.com/rolocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rolocodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soumya16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya16" height="30" width="40" /></a>
@@ -95,12 +150,34 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 
-## Languages and Tools
+<div align="center">
+<svg width="600" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    text { font-family: 'Pacifico', cursive; font-size: 34px; fill: #A77BF7; }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    Languages & Tools
+  </text>
+</svg>
+</div>
+
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <br/>
 
-## My Github Stats
+<div align="center">
+<svg width="600" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    text { font-family: 'Pacifico', cursive; font-size: 34px; fill: #A77BF7; }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    My GitHub Stats
+  </text>
+</svg>
+</div>
+
 
 <div align="center">
   <a href="https://github.com/Sankalp-Sinha">
