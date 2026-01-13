@@ -67,32 +67,25 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 <div align="left">
-  <img src="assets/what-can-i-do.svg" width="300" alt="What can I do?" />
+  <img src="assets/about-me.svg" width="300" alt="What can I do?" />
 </div>
 
 
-- I can code (learnt C for 10 years, Java for 6 years, currently using **Python** and absolutely love it)
-- I can draw (both traditional & digital)
-- I can edit videos
-- I can play competitive games
-- I can play some sports (Badminton, Table Tennis, Cricket)
-- I can learn and do well in anything that catches my interest
+I build things.
 
-<br/>
+- I started coding early - C, then Java, and now Python, which I enjoy the most.
+- I like creating in all forms: code, drawings, crafts, videos, and small ideas turned into real apps.
+- I enjoy competition — math olympiads in school, gold medals in badminton and cricket, and time spent playing competitive video games.
+- When something sparks my interest, I learn it seriously.
 
-<div align="left">
-  <img src="assets/purpose-in-life.svg" width="350" alt="What is my purpose in Life?" />
-</div>
-<br/>
+- I live by one rule: no regrets.
+- If something feels fun or meaningful, I try it.
+- Ideas don’t stay ideas for long - I build them.
+- I take risks, learn from them, and move forward.
+- I care about helping people, and I have a soft spot for dogs.
+- I share what I learn so others can have an easier path.
+- I’m drawn to AI because it feels like modern magic.
 
-- Have no Regrets!
-- I wanna try EVERYTHING that I find fun and interesting!
-- I get a lot of ideas of applications. I build them.
-- I take risks (remember? no regrets?)
-- I wanna help the poor and the dogs.
-- I wanna tell my experiences to the world.
-- I wanna share everything that I have learnt in my life, to make things easier for others.
-- I wanna find magic (I think AI is the way and that's why I have caught an interest in it. Nothing is impossible)
 
 <br/>
 
