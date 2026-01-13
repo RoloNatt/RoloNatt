@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=A77BF7&center=true&width=435&lines=Hi!+I+am+Rolo" />
   </a>
@@ -81,7 +81,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 <div align="left">
-  <img src="assets/purpose-in-life.svg" width="300" alt="What is my purpose in Life?" />
+  <img src="assets/purpose-in-life.svg" width="350" alt="What is my purpose in Life?" />
 </div>
 
 
