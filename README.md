@@ -67,7 +67,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 <div align="left">
-  <img src="assets/about-me.svg" width="300" alt="What can I do?" />
+  <img src="assets/about-me.svg" width="200" alt="What can I do?" />
 </div>
 
 
