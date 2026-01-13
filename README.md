@@ -116,7 +116,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 
 
 <div align="left">
-  <img src="assets/my-github-stats.svg" width="300" alt="My Work (Live)" />
+  <img src="assets/connect-with-me.svg" width="300" alt="Connect With me" />
 </div>
 
 
@@ -125,9 +125,8 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 <div align="left">
-  <img src="assets/my-work-live.svg" width="300" alt="My Work (Live)" />
+  <img src="assets/my-github-stats.svg" width="300" alt="My Github Stats" />
 </div>
-
 
 
 <div align="center">
