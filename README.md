@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=A77BF7&center=true&width=435&lines=Hi!+I+am+Rolo" />
   </a>
@@ -16,8 +16,8 @@
 
 <br/>
 
-<div align="center">
-  <img src="assets/my-work-live.svg" alt="My Work (Live)" />
+<div align="left">
+  <img src="assets/my-work-live.svg" style="width:70%;" alt="My Work (Live)" />
 </div>
 
 
@@ -51,8 +51,8 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 
-<div align="center">
-  <img src="assets/my-work-progress.svg" alt="My Work (In Progress)" />
+<div align="left">
+  <img src="assets/my-work-progress.svg" style="width:70%;" alt="My Work (In Progress)" />
 </div>
 
 
@@ -66,8 +66,8 @@ A precision settings companion for competitive gaming players. Lets users store,
 
 <br/>
 
-<div align="center">
-  <img src="assets/what-can-i-do.svg" alt="What can I do?" />
+<div align="left">
+  <img src="assets/what-can-i-do.svg" style="width:70%;" alt="What can I do?" />
 </div>
 
 
@@ -80,8 +80,8 @@ A precision settings companion for competitive gaming players. Lets users store,
 
 <br/>
 
-<div align="center">
-  <img src="assets/purpose-in-life.svg" alt="What is my purpose in Life?" />
+<div align="left">
+  <img src="assets/purpose-in-life.svg" style="width:70%;" alt="What is my purpose in Life?" />
 </div>
 
 
@@ -99,8 +99,8 @@ A precision settings companion for competitive gaming players. Lets users store,
 
 
 
-<div align="center">
-  <img src="assets/connect-with-me.svg" alt="Connect with me" />
+<div align="left">
+  <img src="assets/connect-with-me.svg" style="width:70%;" alt="Connect with me" />
 </div>
 
 
@@ -115,8 +115,8 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 
-<div align="center">
-  <img src="assets/my-github-stats.svg" alt="My Work (Live)" />
+<div align="left">
+  <img src="assets/my-github-stats.svg" style="width:70%;" alt="My Work (Live)" />
 </div>
 
 
@@ -125,7 +125,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 <div align="left">
-  <img src="assets/my-work-live.svg" alt="My Work (Live)" />
+  <img src="assets/my-work-live.svg" style="width:70%;" alt="My Work (Live)" />
 </div>
 
 
