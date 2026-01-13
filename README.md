@@ -69,13 +69,13 @@ A precision settings companion for competitive gaming players. Lets users store,
 <div align="left">
   <img src="assets/about-me.svg" width="200" alt="What can I do?" />
 </div>
-
+<br/>
 
 I build things.
 
 - I started coding early - C, then Java, and now Python, which I enjoy the most.
 - I like creating in all forms: code, drawings, crafts, videos, and small ideas turned into real apps.
-- I enjoy competition — math olympiads in school, gold medals in badminton and cricket, and time spent playing competitive video games.
+- I enjoy competition - math olympiads in school, gold medals in badminton and cricket, and time spent playing competitive video games.
 - When something sparks my interest, I learn it seriously.
 
 - I live by one rule: no regrets.
