@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=A77BF7&center=true&width=435&lines=Hi!+I+am+Rolo)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=A77BF7&center=true&width=435&lines=Hi!+I+am+Rolo)](https://git.io/typing-svg)
+</p>
+
+
 <h3 align="center">On a Journey to Discover Magic and Create Spells✨</h3>
 <h5 align="center">https://www.rolonatt.com</h5>
 <br/>
