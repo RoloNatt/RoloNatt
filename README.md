@@ -5,7 +5,7 @@
 </div>
 
 
-<h3 align="center">On a Journey to Discover Magic and Create Spells✨</h3>
+<h3 align="center">On a Journey to Discover Magic and Create Spells ✨</h3>
 <h5 align="center">https://www.rolonatt.com</h5>
 <br/>
 
