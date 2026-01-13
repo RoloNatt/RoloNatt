@@ -19,7 +19,7 @@
 <div align="left">
   <img src="assets/my-work-live.svg" width="300" alt="My Work (Live)" />
 </div>
-
+<br/>
 
 #### Folder Notes Panel - Windows App (Microsoft Store)
 A Windows utility tool that lets users add contextual notes directly inside Windows folders - reminders, instructions, and project context that appear only when opening that folder.
@@ -54,7 +54,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 <div align="left">
   <img src="assets/my-work-progress.svg" width="300" alt="My Work (In Progress)" />
 </div>
-
+<br/>
 
 #### Desktop App - scribble notes
 #### Web App - Product Management
@@ -83,7 +83,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 <div align="left">
   <img src="assets/purpose-in-life.svg" width="350" alt="What is my purpose in Life?" />
 </div>
-
+<br/>
 
 - Have no Regrets!
 - I wanna try EVERYTHING that I find fun and interesting!
@@ -102,7 +102,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 <div align="left">
   <img src="assets/connect-with-me.svg" width="300" alt="Connect with me" />
 </div>
-
+<br/>
 
 <p align="left">
 <a href="https://twitter.com/rolocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rolocodes" height="30" width="40" /></a>
@@ -118,7 +118,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 <div align="left">
   <img src="assets/languages.svg" width="300" alt="Languages & Tools" />
 </div>
-
+<br/>
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
@@ -127,7 +127,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 <div align="left">
   <img src="assets/my-github-stats.svg" width="300" alt="My Github Stats" />
 </div>
-
+<br/>
 
 <div align="center">
   <a href="https://github.com/RoloNatt">
