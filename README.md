@@ -116,7 +116,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 
 
 <div align="left">
-  <img src="assets/connect-with-me.svg" width="300" alt="Connect With me" />
+  <img src="assets/languages.svg" width="300" alt="Languages & Tools" />
 </div>
 
 
