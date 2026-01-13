@@ -17,7 +17,7 @@
 <br/>
 
 <div align="left">
-  <img src="assets/my-work-live.svg" width="480" alt="My Work (Live)" />
+  <img src="assets/my-work-live.svg" width="300" alt="My Work (Live)" />
 </div>
 
 
@@ -52,7 +52,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 
 
 <div align="left">
-  <img src="assets/my-work-progress.svg" width="480" alt="My Work (In Progress)" />
+  <img src="assets/my-work-progress.svg" width="300" alt="My Work (In Progress)" />
 </div>
 
 
@@ -67,7 +67,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 <div align="left">
-  <img src="assets/what-can-i-do.svg" width="480" alt="What can I do?" />
+  <img src="assets/what-can-i-do.svg" width="300" alt="What can I do?" />
 </div>
 
 
@@ -81,7 +81,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 <div align="left">
-  <img src="assets/purpose-in-life.svg" width="480" alt="What is my purpose in Life?" />
+  <img src="assets/purpose-in-life.svg" width="300" alt="What is my purpose in Life?" />
 </div>
 
 
@@ -100,7 +100,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 
 
 <div align="left">
-  <img src="assets/connect-with-me.svg" width="480" alt="Connect with me" />
+  <img src="assets/connect-with-me.svg" width="300" alt="Connect with me" />
 </div>
 
 
@@ -116,7 +116,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 
 
 <div align="left">
-  <img src="assets/my-github-stats.svg" width="480" alt="My Work (Live)" />
+  <img src="assets/my-github-stats.svg" width="300" alt="My Work (Live)" />
 </div>
 
 
@@ -125,7 +125,7 @@ A precision settings companion for competitive gaming players. Lets users store,
 <br/>
 
 <div align="left">
-  <img src="assets/my-work-live.svg" width="480" alt="My Work (Live)" />
+  <img src="assets/my-work-live.svg" width="300" alt="My Work (Live)" />
 </div>
 
 
