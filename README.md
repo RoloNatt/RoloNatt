@@ -1,8 +1,8 @@
-<p align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=A77BF7&center=true&width=435&lines=Hi!+I+am+Rolo" alt="Typing SVG" /></a>
-
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=A77BF7&center=true&width=435&lines=Hi!+I+am+Rolo" />
+  </a>
+</div>
 
 
 <h3 align="center">On a Journey to Discover Magic and Create Spells✨</h3>
