@@ -130,18 +130,9 @@ I build things.
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoloNatt&theme=radical&hide_border=false&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoloNatt&theme=radical&hide_border=false&layout=compact&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RoloNatt" />
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=RoloNatt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoloNatt&layout=compact)
+![](https://komarev.com/ghpvc/?username=RoloNatt)
 
 
 <br/>
