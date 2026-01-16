@@ -130,10 +130,7 @@ I build things.
   </a>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=RoloNatt)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoloNatt&layout=compact)
-![](https://komarev.com/ghpvc/?username=RoloNatt)
-
+![](https://github-readme-stats.vercel.app/api?username=RoloNatt&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=RoloNatt&theme=radical&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoloNatt&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://komarev.com/ghpvc/?username=RoloNatt)
 
 <br/>
 
