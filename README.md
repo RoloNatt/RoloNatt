@@ -131,12 +131,12 @@ I build things.
 </div>
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=RoloNatt&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=RoloNatt&theme=radical&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoloNatt&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-  ![](https://komarev.com/ghpvc/?username=RoloNatt)
+  <img src="https://github-readme-stats.vercel.app/api?username=RoloNatt&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoloNatt&theme=radical&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoloNatt&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br/>
+  <img src="https://komarev.com/ghpvc/?username=RoloNatt" />
 </div>
+
 <br/>
 
 ## Hashnode Blog Post
