@@ -11,8 +11,9 @@
 
 - 🔭 I’m currently building Desktop and Android Apps
 - 📝 I write blogs on [https://hashnode.com/@rolonatt](https://hashnode.com/@rolonatt)
-- 📫 How to reach me **rolo.natt@gmail.com**
 - ⚡ Fun fact **I am a weirdo**
+<br/>
+**Actively seeking new opportunities - somver16@gmail.com**
 
 <br/>
 
