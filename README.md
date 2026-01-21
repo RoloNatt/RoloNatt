@@ -13,7 +13,7 @@
 - 📝 I write blogs on [https://hashnode.com/@rolonatt](https://hashnode.com/@rolonatt)
 - ⚡ Fun fact **I am a weirdo**
 <br/>
-**Actively seeking new opportunities - 📩 somver16@gmail.com**
+<div align="center"> **Actively seeking new opportunities - 📩 somver16@gmail.com** </div>
 <br/>
 <br/>
 
