@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a weirdo**
 <br/>
 
-#####Actively seeking new opportunities - 📩 somver16@gmail.com**
+##### Actively seeking new opportunities - 📩 somver16@gmail.com
 
 <br/>
 <br/>
