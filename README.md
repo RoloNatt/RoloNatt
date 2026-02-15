@@ -27,7 +27,7 @@
 #### Folder Notes Panel - Windows App (Microsoft Store)
 A Windows utility tool that lets users add contextual notes directly inside Windows folders - reminders, instructions, and project context that appear only when opening that folder.
 <br/>
-[Folder Notes Panel link]()
+[Folder Notes Panel link](https://apps.microsoft.com/detail/9nxdbd2z6twp?cid=DevShareMCLPCS&hl=en-US&gl=IN)
 
 #### Tourney Mod - Discord Bot (300+ servers)
 A tournament-management bot built for gaming communities. Helps organizers create brackets, track match progress, record results, and manage participant updates - reducing manual coordination and making community tournaments smoother to run.
